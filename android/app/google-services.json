@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "350141915501",
+    "project_id": "new-complaint-app",
+    "storage_bucket": "new-complaint-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350141915501:android:43ef0f3193bb994c657a64",
+        "android_client_info": {
+          "package_name": "com.example.new_complaint_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSDoTWYhmhgtliKtGv3j09R2R9St6qTzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350141915501:android:bb290f46f0ad2daf657a64",
+        "android_client_info": {
+          "package_name": "com.example.new_complaint_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSDoTWYhmhgtliKtGv3j09R2R9St6qTzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
