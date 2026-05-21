@@ -32,7 +32,6 @@ A cross-platform mobile application built with **Flutter** and **Firebase** for 
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
-|---|---|
 | Frontend | Flutter (Dart) |
 | Auth | Firebase Authentication |
 | Database | Cloud Firestore + Firebase Realtime Database |
