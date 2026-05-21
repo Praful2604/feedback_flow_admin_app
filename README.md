@@ -73,13 +73,11 @@ A cross-platform mobile application built with **Flutter** and **Firebase** for 
 | Layer | Technology |
 |---|---|
 | Frontend | Flutter (Dart) |
-| State Management | GetX |
 | Auth | Firebase Authentication |
 | Database | Cloud Firestore + Firebase Realtime Database |
 | Storage | Firebase Storage |
-| Notifications | Firebase Cloud Messaging (FCM) |
 | Charts | pie_chart / fl_chart |
-| Local Storage | Shared Preferences |
+
 
 ---
 
